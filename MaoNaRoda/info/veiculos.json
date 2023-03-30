@@ -1,0 +1,152 @@
+[
+  {
+    "marca" : "Audi",
+    "nome" : "Audi A6",
+    "ano" : "2019/2020",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina",
+    "cor" : "Preto",
+    "carroceria" : "Sedã",
+    "preco" : "374900"
+  },
+  {
+    "marca" : "Audi",
+    "nome" : "Audi RS 5",
+    "ano" : "2019/2020",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina",
+    "cor" : "Cinza",
+    "carroceria" : "Utilitário esportivo",
+    "preco" : "720000"
+  },
+  {
+    "marca" : "Audi",
+    "nome" : "Audi Q8",
+    "ano" : "2020/2021",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina",
+    "cor" : "Cinza",
+    "carroceria" : "Utilitário esportivo",
+    "preco" : "789900"
+  },
+  {
+    "marca" : "Chevrolet",
+    "nome" : "Chevrolet S10",
+    "ano" : "2019/2020",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Vermelho",
+    "carroceria" : "Picape",
+    "preco" : "166850"
+  },
+  {
+    "marca" : "Chevrolet",
+    "nome" : "Chevrolet Onix",
+    "ano" : "2020/2021",
+    "cambio" : "Manual",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Branco",
+    "carroceria" : "Hatchback",
+    "preco" : "71900"
+  },
+  {
+    "marca" : "Chevrolet",
+    "nome" : "Chevrolet Tracker",
+    "ano" : "2020/2021",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Azul",
+    "carroceria" : "Utilitário espertivo",
+    "preco" : "136900"
+  },
+  {
+    "marca" : "Fiat",
+    "nome" : "Fiat Uno",
+    "ano" : "2019/2020",
+    "cambio" : "Manual",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Branco",
+    "carroceria" : "Hatchback",
+    "preco" : "69990"
+  },
+  {
+    "marca" : "Fiat",
+    "nome" : "Fiat Siena",
+    "ano" : "2013/2014",
+    "cambio" : "Manual",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Prata",
+    "carroceria" : "Sedã",
+    "preco" : "37990"
+  },
+  {
+    "marca" : "Fiat",
+    "nome" : "Fiat Argo",
+    "ano" : "2020/2020",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Vermelho",
+    "carroceria" : "Hatchback",
+    "preco" : "84900"
+  },
+  {
+    "marca" : "Honda",
+    "nome" : "Honda HR-V",
+    "ano" : "2018/2019",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Cinza",
+    "carroceria" : "Utilitátio esportivo",
+    "preco" : "124990"
+  },
+  {
+    "marca" : "Honda",
+    "nome" : "Honda Civic",
+    "ano" : "2018/2018",
+    "cambio" : "CVT",
+    "combustivel" : "Gasolina e álcool",
+    "cor" : "Branco",
+    "carroceria" : "Sedã",
+    "preco" : "115900"
+  },
+  {
+    "marca" : "Honda",
+    "nome" : "Honda Fit",
+    "ano" : "2018/2018",
+    "cambio" : "Automático",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Branco",
+    "carroceria" : "Hatchback",
+    "preco" : "89900"
+  },
+  {
+    "marca" : "Volksvagen",
+    "nome" : "Volksvagen Gol",
+    "ano" : "2020/2021",
+    "cambio" : "Manual",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Branco",
+    "carroceria" : "Hatchback",
+    "preco" : "57900"
+  },
+  {
+    "marca" : "Volksvagen",
+    "nome" : "Volksvagen Voyage",
+    "ano" : "2020/2021",
+    "cambio" : "Manual",
+    "combustivel" : "Gasolina/Álcool",
+    "cor" : "Branco",
+    "carroceria" : "Sedã",
+    "preco" : "67900"
+  },
+  {
+    "marca" : "Volksvagen",
+    "nome" : "Volksvagen Fusca",
+    "ano" : "1968/1968",
+    "cambio" : "Manual",
+    "combustivel" : "Gasolina",
+    "cor" : "Preto",
+    "carroceria" : "Sedã",
+    "preco" : "56000"
+  }
+]
